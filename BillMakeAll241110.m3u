@@ -511,7 +511,7 @@ http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 group-title="🏠广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
 http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 group-title="🏠广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
-http://120.238.84.44:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+http://119.32.12.44:2901/udp/224.1.100.34:11111
 #EXTINF:-1 group-title="🏠广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 http://110.177.146.152:888/rtp/239.1.1.69:8069$山西电信组播源
 #EXTINF:-1 group-title="🏠广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
